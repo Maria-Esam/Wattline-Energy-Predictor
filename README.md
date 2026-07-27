@@ -36,11 +36,3 @@ Instead of solely using existing packages, I engineered a **Linear Regression mo
 1. Clone the repository:
    ```bash
    git clone [https://github.com/your-username/Wattline-Energy-Predictor.git](https://github.com/Maria-Esam/Wattline-Energy-Predictor.git)
-   
-## Dashboard Preview
-
-![Prediction Engine View](<img width="1899" height="892" alt="Screenshot 2026-07-27 162654" src="https://github.com/user-attachments/assets/ca2fb70f-2d12-4de4-8252-f24dd991a6d1" />
-)
-
-![Model Analytics View](<img width="1910" height="907" alt="Screenshot 2026-07-27 162738" src="https://github.com/user-attachments/assets/65cbf2ef-2122-42b2-9e5e-7c14f73eaaa6" />
-)
